@@ -1,0 +1,22 @@
+#lakehub-menu {
+  height: 100px;
+  img {
+    height: 70px;
+  }
+  .techies {
+    font-size: 3em;
+    font-family: 'Armata', sans-serif;
+    color: #B1B0AE;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  .menu > li {
+    display: block;
+  }
+  .menu > li > a {
+    padding-top: 0;
+  }
+}
+.row.custom-wide-row {
+  max-width: 90rem;
+}

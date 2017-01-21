@@ -1,0 +1,21 @@
+#projects {
+  padding-top: 50px;
+  h2 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.8em;
+  }
+  .dalabs {
+    background-color: $lakehub-blue;
+    color: white;
+    img {
+      padding-top: 15%;
+    }
+  }
+  .villagecode {
+    color: #24CCBF;
+  }
+  .code9ty {
+    color: $lakehub-blue
+  }
+}
