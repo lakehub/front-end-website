@@ -86,3 +86,34 @@
     font-weight: 900;
   }
 }
+
+// styling for small screens only
+@media screen and (max-width: 39.9375em) {
+  #intro {
+    background-image: url('/assets/img/intro-mobile-bg.jpg');
+    background-size: cover;
+    .wording {
+      padding-left: 20px;
+      padding-top: 30px;
+      text-align: center;
+      padding-bottom: 20px;
+    }
+  }
+  #grow {
+    height: 350px;
+    .vertical-center {
+      height: 150px;
+    }
+    .right-wording {
+      text-align: center;
+      padding: 7px;
+    }
+
+    #enlarged {
+      transform: translate(25%, -50%);
+      -webkit-transform: translate(25%, -50%);
+      font-size: 5em;
+    }
+
+  }
+  }
