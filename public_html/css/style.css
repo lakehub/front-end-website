@@ -119,11 +119,11 @@ nav.navbar.navbar-default {
     font-size: .8em;
     line-height: 50px;
     letter-spacing: 2px;
-    background: url(../images/1.png) no-repeat 0px 0px;
+    background: url(../images/lakehub-logo.png) no-repeat 0px 0px;
     text-transform: uppercase;
 }
 .navbar-brand span{
-	color: #ff464f;
+	color: #000033;
     font-size: 1.5em;
     display: inline-block;
     padding: 0 .7em 0 .7em;
@@ -198,7 +198,7 @@ nav.navbar.navbar-default {
     text-transform: capitalize;
 }
 .w3_agile_banner_info p{
-	color:#ff464f;
+	color:#000033;
 	line-height:1.5em;
 	margin: .5em 0 3em;
 }
@@ -223,8 +223,8 @@ nav.navbar.navbar-default {
 	background:none;
 }
 .w3ls_more,.w3l_contact:hover{
-	border: 2px solid #ff464f;
-    background: #ff464f;
+	border: 2px solid #000033;
+        background: #000033;
     color: #fff !important;
 }
 .w3ls_more:focus{
@@ -340,7 +340,7 @@ button.close {
 /*-- strip --*/
 .agileits_w3layouts_strip{
 	padding:3em 0;
-	background:#ff464f;
+	background:#000033;
 }
 .w3_agileits_strip_left{
 	float:left;
@@ -402,7 +402,7 @@ button.close {
 }
 .w3l_banner_bottom_grid1 i{
 	font-size: 2em;
-    color: #ff464f;
+    color: #000033;
     line-height: 2.8em;
 }
 .w3ls_banner_bottom_grid:hover .w3l_banner_bottom_grid1 i{
@@ -491,7 +491,7 @@ button.close {
     color: #059dc5;
 }
 .w3_agile_event_right_grid_left img{
-	border:5px solid #ff464f;
+	border:5px solid #000033;
 	border-radius:100px;
 	margin:0 auto;
 }
@@ -596,7 +596,7 @@ button.close {
     letter-spacing: 2px;
 }
 .agile_team_grid p{
-	color:#ff464f;
+	color:#000033;
 }
 /*-- //team --*/
 /*-- quotes --*/
@@ -642,7 +642,7 @@ button.close {
 } 
 .w3_agile_event_grid1_pos p{
 	padding:.2em 1em;
-	background:#ff464f;
+	background:#000033;
 	font-weight:600;
 	color:#fff;
 }
@@ -668,7 +668,7 @@ button.close {
 	text-decoration:none;
 }
 .agile_event_grid1_pos ul li a:hover{
-	background:#ff464f;
+	background:#000033;
 	color:#fff;
 }
 .agile_event_grid1_pos ul li a i{
@@ -815,7 +815,7 @@ ul.agile_footer_grid_list li:nth-child(2){
 	margin:2em 0 0;
 }
 ul.agile_footer_grid_list li a{
-	color:#ff464f;
+	color:#000033;
 	text-decoration:none;
 }
 ul.agile_footer_grid_list li a:hover{
@@ -853,7 +853,7 @@ ul.agile_footer_grid_list li i{
 	text-transform:uppercase;
 }
 .agileits_w3layouts_footer_grid_list li i{ 
-    color: #ff464f;
+    color: #000033;
 	padding-right:1em;
 }
 .agileits_w3layouts_footer_grid_list li a{
@@ -863,7 +863,7 @@ ul.agile_footer_grid_list li i{
     letter-spacing: 1px;
 }
 .agileits_w3layouts_footer_grid_list li a:hover{
-	color:#ff464f;
+	color:#000033;
 }
 .agileits_w3layouts_footer_grid_list li:last-child{
 	margin-bottom:0;
@@ -899,7 +899,7 @@ ul.agile_footer_grid_list li i{
     border-radius: 30px;
 }
 .w3_newsletter_footer_grid_left input[type="submit"]:hover{
-	background:#ff464f;
+	background:#000033;
 }
 .w3_newsletter_footer_grid_right{
 	text-align: center;
@@ -910,7 +910,7 @@ ul.agile_footer_grid_list li i{
     height: 55px;
     border-radius: 50px;
     text-align: center;
-    background: #ff464f;
+    background: #000033;
     border: 2px solid #fff;
 	margin:0 auto 1em;
 }
@@ -976,7 +976,7 @@ ul.agile_footer_grid_list li i{
 	letter-spacing:2px;
 }
 .w3_agileits_about_grid_left ul li i{
-	color:#ff464f;
+	color:#000033;
 	padding-right:1em;
 }
 .w3_agileits_about_grid_left ul li:last-child{
@@ -1032,7 +1032,7 @@ ul.agile_footer_grid_list li i{
 	padding:0 1.5em;
 }
 .w3layouts_breadcrumbs_left ul li a{
-	color:#ff464f;
+	color:#000033;
 	text-decoration:none;
 }
 .w3layouts_breadcrumbs_right{
@@ -1054,7 +1054,7 @@ ul.agile_footer_grid_list li i{
     letter-spacing: 3px;
 }
 .agileits_services_grid h3 span{
-	color:#ff464f;
+	color:#000033;
 }
 .agileits_services_grid p{
 	color:#999;
@@ -1078,11 +1078,11 @@ ul.agile_footer_grid_list li i{
 }
 .w3layouts_more a i{
 	padding-left:1em;
-	color:#ff464f;
+	color:#000033;
 }
 .w3layouts_more a:hover{
-	background:#ff464f;
-	border:2px solid #ff464f;
+	background:#000033;
+	border:2px solid #000033;
 	color:#fff;
 }
 .w3layouts_more a:hover i{
@@ -1136,7 +1136,7 @@ ul.agile_footer_grid_list li i{
 	color:#fff;
 }
 .agileinfo_para1{
-	color:#ff464f;
+	color:#000033;
 }
 .agile_offer_grid_pos{
 	position:absolute;
@@ -1174,7 +1174,7 @@ ul.agile_footer_grid_list li i{
 }
 .w3l_services_footer_top_right_main_l h3{
 	font-size: 1.2em;
-    color: #ff464f;
+    color: #000033;
     padding-right: 2em;
     border-right: 1px solid #212121;
     margin: 1.8em 0 0;
@@ -1254,7 +1254,7 @@ ul.agile_footer_grid_list li i{
     color: #fff;
     text-transform: uppercase;
     padding: 0.5em 1em;
-    background: #ff464f;
+    background: #000033;
 }
 /*-- //offer-bottom --*/
 /*-- portfolio --*/
@@ -1412,7 +1412,7 @@ ul.agile_footer_grid_list li i{
 .w3_agile_mail_grid input[type="submit"] {
     outline: none;
     width: 100%;
-    background: #ff464f;
+    background: #000033;
     color: #fff;
     padding: 1em 0;
     font-size: 1em;
@@ -1509,7 +1509,7 @@ ul.bs-glyphicons-list li:hover span {
 }
 h3.icon-subheading {
 	font-size: 25px;
-    color: #ff464f !important;
+    color: #000033 !important;
     margin: 30px 0 15px;
 }
 h3.agileits-icons-title {
@@ -1698,7 +1698,7 @@ li.list-group-item1 {
 }
 .grid_5 h3, .grid_5 h2, .grid_5 h1, .grid_5 h4, .grid_5 h5, h3.hdg, h3.bars {
 	margin-bottom: 1em;
-    color:#ff464f;
+    color:#000033;
 }
 .table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
 	border-top: none !important;
@@ -1966,7 +1966,7 @@ h2.typoh2{
 		margin: 2em 0 1em;
 	}
 	.w3_agile_event_right_grid_left img {
-		border: 3px solid #ff464f;
+		border: 3px solid #000033;
 		width: 65%;
 	}
 	.w3layouts_event_right {
@@ -2015,7 +2015,7 @@ h2.typoh2{
 	.navbar-brand {
 		height: 65px;
 		background: url(../images/lakehub-logo.png) no-repeat 0px 0px;
-		background-size: 35%;
+		background-size: 40%;
 	}
 	.navbar-brand span {
 		padding: 0 .6em;
@@ -2284,7 +2284,7 @@ h2.typoh2{
 		margin: 0;
 	}
 	.navbar-nav .open .dropdown-menu {
-		background-color: #ff464f;
+		background-color: #000033;
 		padding: .5em 0;
 	}
 	.navbar-default .navbar-nav .open .dropdown-menu > li > a {
@@ -2455,7 +2455,7 @@ h2.typoh2{
 }
 @media (max-width: 568px){
 	.navbar-brand {
-		background: url(../images/1.png) no-repeat 0px 0px;
+		background: url(../images/lakehub-logo.png) no-repeat 0px 0px;
 		background-size: 34%;
 	}
 	.navbar-brand span {
@@ -2769,7 +2769,7 @@ h2.typoh2{
 }
 @media (max-width: 320px){
 	.navbar-brand {
-		background: url(../images/1.png) no-repeat 0px 0px;
+		background: url(../images/lakehub-logo.png) no-repeat 0px 0px;
 		background-size: 31%;
 		line-height: 40px;
 		height: 45px;
