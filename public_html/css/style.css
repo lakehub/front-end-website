@@ -31,7 +31,7 @@ a:focus{
 }
 /*-- banner --*/
 .banner{
-	background:url(../images/banner.jpg) no-repeat 0px 0px;
+	background:url(../images/intro-bg.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -41,7 +41,7 @@ a:focus{
 	position: relative;
 }
 .banner1{
-	background:url(../images/banner.jpg) no-repeat 0px -175px;
+	background:url(../images/intro3-bg.jpg) no-repeat 0px -175px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
